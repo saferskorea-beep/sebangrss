@@ -5,31 +5,31 @@
     <link>https://example.com</link>
     <description>SH/LM/OM RSS</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:10:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:10:11 +0900</lastBuildDate>
     
     <item>
       <title>SH</title>
       <link>test 1</link>
       <description><![CDATA[https://example.com/post1]]></description>
       <category>본문요약</category>
-      <pubDate>Fri, 14 Aug 2026 10:10:10 +0900</pubDate>
-      <guid isPermaLink="false">test 1#0771e563-4adf-4e31-996f-01ef70d18ee7</guid>
+      <pubDate>Fri, 14 Aug 2026 11:10:11 +0900</pubDate>
+      <guid isPermaLink="false">test 1#29f34d2d-51c1-4f13-ad39-fcb6dec6bfeb</guid>
     </item>
     <item>
       <title>LM</title>
       <link>test 2</link>
       <description><![CDATA[https://example.com/post2]]></description>
       <category>본문요약</category>
-      <pubDate>Fri, 14 Aug 2026 10:10:10 +0900</pubDate>
-      <guid isPermaLink="false">test 2#102778e5-19a9-478f-9008-fd61d6a944d7</guid>
+      <pubDate>Fri, 14 Aug 2026 11:10:11 +0900</pubDate>
+      <guid isPermaLink="false">test 2#ab029dc7-1ca0-44a4-96e8-81b89b4796dc</guid>
     </item>
     <item>
       <title>OM</title>
       <link>test 3</link>
       <description><![CDATA[https://example.com/post3]]></description>
       <category>본문요약</category>
-      <pubDate>Fri, 14 Aug 2026 10:10:10 +0900</pubDate>
-      <guid isPermaLink="false">test 3#19094cda-d6cc-4073-b8f0-e5a82a81f5e8</guid>
+      <pubDate>Fri, 14 Aug 2026 11:10:11 +0900</pubDate>
+      <guid isPermaLink="false">test 3#f9c3bba1-236e-4305-9693-b172825d1f0b</guid>
     </item>
   </channel>
 </rss>
